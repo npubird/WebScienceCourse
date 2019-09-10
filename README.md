@@ -10,4 +10,4 @@ A systematic course about web science for graduate students
 
 # 课程内容
 
-##1 Web Science: introduction, history, concepts  
+## 1 Web Science: introduction, history, concepts  
