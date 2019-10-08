@@ -13,4 +13,7 @@ A systematic course about web science for graduate students
 ## 1 Web Science: introduction, history, concepts  
 ## 2 Graph analysis: fundamentals  
 ## 3 Graph analysis: measures 
+## 4 Social network mining and analysis: link prediction
+## 5 Knowledge graph: concepts and applications
+## 6 Knowledge graph: techniques 
 
