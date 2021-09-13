@@ -2,8 +2,8 @@
 A systematic course about web science for graduate students
 
 东南大学《Web Science》研究生课程  
-时间：2019年秋季（9月\~12月）  
-每周二上午8:00\~12:00  
+时间：2021年秋季（9月\~12月）  
+每周一下午14:00\~17:30  
 地点：东南大学苏州研究院  
 答疑/讨论/建议：请致信 pwang AT seu.edu.cn
 
